@@ -1,9 +1,13 @@
-**CITATION**
+## Citation
 
+If you use this work in your research, please cite it as follows:
+
+```bibtex
 @inproceedings{hidayatullah2024peft,
-  title={Parameter Efficient Fine-tuning using Low-Rank Adaptation for Emotion Classification in Indonesian Texts},
-  author={Ahmad Fathan Hidayatullah},
-  booktitle={2024 9th International Conference on Information Technology and Digital Applications (ICITDA)},
-  year={2024},
-  publisher={IEEE}
+  title     = {Parameter Efficient Fine-tuning using Low-Rank Adaptation for Emotion Classification in Indonesian Texts},
+  author    = {Ahmad Fathan Hidayatullah},
+  booktitle = {2024 9th International Conference on Information Technology and Digital Applications (ICITDA)},
+  year      = {2024},
+  publisher = {IEEE}
 }
+```
